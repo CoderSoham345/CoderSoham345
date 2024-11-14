@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderSoham345
 - 👀 I’m interested in Data science and Artificial intelligence
 - 🌱 I’m currently learning C programming and python
-- 💞️ I’m looking to collaborate on various IT companies like IBM,Microsoft
+- 💞️ I’m looking to collaborate on various IT companies like Apple,Microsoft
 - 📫 How to reach me via my mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
