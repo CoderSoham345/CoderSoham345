@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=Namaskar!+I'm+Soham+%E2%80%94+Systems+%26+Full-Stack+Engineer+%F0%9F%91%8B;Engineering+Resilient+Backends%2C+Clean+Architecture+%26+Glassmorphic+UI;78%2B+Repositories+%7C+Open-Source+Contributor+%7C+Mumbai%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=Namaskar!+I'm+Soham+%E2%80%94+Systems+%26+Full-Stack+Engineer+%F0%9F%A4%96;Engineering+Resilient+Backends%2C+Clean+Architecture+%26+Glassmorphic+UI;78%2B+Repositories+%7C+Open-Source+Contributor+%7C+Mumbai%2C+India" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧑‍💻 About Me — Welcome to My Digital Workshop!
+### 🤖 About Me — Welcome to My Digital Workshop!
 
 <table>
 <tr>
@@ -46,8 +46,8 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 </td>
 <td width="36%" align="center" valign="middle">
 
-<!-- Coding Developer Mascot -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="165" alt="Coder Mascot" />
+<!-- Custom Animated Cyber-Robo Mascot -->
+<img src="./assets/robo-mascot.svg" width="205" alt="Soham Cyber-Robo Mascot" />
 
 <br/>
 
@@ -65,10 +65,8 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 
 <div align="center">
 
-<!-- GitHub Profile Trophy Showcase -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderSoham345&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</a>
+<!-- GitHub Trophies (Reliable Mirror) -->
+<img src="https://github-trophies.vercel.app/?username=CoderSoham345&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -76,7 +74,7 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CoderSoham345&show_icons=true&include_all_commits=true&count_private=true&bg_color=1E1B4B&title_color=67E8F9&text_color=E0E7FF&icon_color=C084FC&border_color=4338CA&ring_color=67E8F9&border_radius=12" width="100%" alt="Soham's GitHub Rank & Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=CoderSoham345&show_icons=true&include_all_commits=true&count_private=true&bg_color=1E1B4B&title_color=67E8F9&text_color=E0E7FF&icon_color=C084FC&border_color=4338CA&ring_color=67E8F9&border_radius=12" width="100%" alt="Soham's GitHub Rank & Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=CoderSoham345&background=1E1B4B&border=4338CA&ring=67E8F9&fire=C084FC&currStreakNum=FFFFFF&sideNums=E0E7FF&currStreakLabel=67E8F9&sideLabels=A5B4FC&dates=94A3B8&border_radius=12" width="100%" alt="GitHub Streak" />
@@ -84,7 +82,7 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSoham345&layout=compact&langs_count=8&bg_color=1E1B4B&title_color=67E8F9&text_color=E0E7FF&border_color=4338CA&border_radius=12" width="62%" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CoderSoham345&layout=compact&langs_count=8&bg_color=1E1B4B&title_color=67E8F9&text_color=E0E7FF&border_color=4338CA&border_radius=12" width="62%" alt="Top Languages" />
     </td>
   </tr>
 </table>
