@@ -46,8 +46,8 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 </td>
 <td width="36%" align="center" valign="middle">
 
-<!-- Custom Animated Cyber-Robo Mascot -->
-<img src="./assets/robo-mascot.svg" width="205" alt="Soham Cyber-Robo Mascot" />
+<!-- Animated 3D Robo Mascot (GitHub CDN Hosted - Works Instantly) -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="165" alt="Soham Cyber-Robo Mascot" />
 
 <br/>
 
@@ -65,7 +65,7 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 
 <div align="center">
 
-<!-- GitHub Trophies (Reliable Mirror) -->
+<!-- GitHub Trophies -->
 <img src="https://github-trophies.vercel.app/?username=CoderSoham345&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
@@ -152,11 +152,12 @@ Guided by the strategic discipline, courage, and resilience of **Chhatrapati Shi
 
 ---
 
-### 📊 Live Activity Graph
+### 📊 Commit & Productivity Telemetry
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderSoham345&bg_color=1E1B4B&color=A5B4FC&line=67E8F9&point=C084FC&area=true&hide_border=false&border_color=4338CA" width="100%" alt="Soham's Contribution Activity Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderSoham345&theme=radical" width="100%" alt="Soham's GitHub Profile Details" />
 </div>
 
 <!-- Dazzling Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,100:1E1B4B&height=110&section=footer" width="100%" alt="Footer Wave" />
+
